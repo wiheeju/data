@@ -5,12 +5,14 @@
             {
                 "title":"bl;dufl",
                 "writer":"writer x",
-                "academy":"acm 2020"
+                "academy":"acm 2020",
+                "pdf":"www.naver.com"
             },
             {
                 "title":"bl;dufldfs",
                 "writer":"writer x, writer xy",
-                "academy":"kdd 2020"
+                "academy":"kdd 2020",
+                "poster":"www.naver.com"
             }
         ]
     },
